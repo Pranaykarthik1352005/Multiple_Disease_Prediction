@@ -1,4 +1,4 @@
-# Multiple Disease Prediction Web App
+# Multiple Disease Prediction
 
 ## Overview
 
